@@ -1,0 +1,11 @@
+base
+yhatr
+DBI
+plyr
+reshape2
+cluster
+FactoMineR
+pbapply
+devtools
+slidify
+ggplot2
