@@ -5,7 +5,7 @@ framework   : impressjs       # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : standalone # {standalone, draft}
+mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 --- #title x:0 y:0 
 
@@ -191,7 +191,7 @@ Admixture plot K-14 </br>
 
 --- #slide19 x:1500 y:2500 rotz:90
 <p class="centeredImage">
-<img src="final_subset_plot_lab.tif" style="width: 500px; height: 800px"></p> 
+<img src="final_subset_plot_lab.png" style="width: 500px; height: 800px"></p> 
 
 --- #slide20 x:2500 y:1500 z:1000 scale:0.5 rot:360
 <p class="centeredImage"><b>Thank you for your attention!</b></br>
