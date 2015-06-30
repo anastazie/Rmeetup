@@ -119,6 +119,27 @@ Dene-Yeniseian hypothesis
 
 --- #slide14 x:-2500 y:200 z:500 scale:1
 <p class="centeredImage" style="font-size:30px">
+<b>Admixture model</b></p>
+</br>
+<ul style="list-style-type:circle">
+ <li><p style="font-size:25px"><i>K </i>ancestral populations</p></li>
+ <li><p style="font-size:25px"><i>I </i>individuals</p></li>
+ <li><p style="font-size:25px"><i>J </i>markers</p></li>
+ <li><p style="font-size:25px"><i>Q </i>matrix</p>
+ <ul>
+ <li><p style="font-size:25px"><i>q</i> fraction of <i>k</i> population in <i>i</i> individual</p></li>
+ </ul>
+ </li>
+ <li><p style="font-size:25px"><i>F </i>matrix</p>
+ <ul>
+ <li><p style="font-size:25px"><i>f</i> frequency of <i>j</i> marker in <i>k</i> population</p></li>
+ </ul>
+ </li>
+</ul>
+ 
+
+--- #slide15 x:-2500 y:1000 z:-500 scale:0.25 rot:30
+<p class="centeredImage" style="font-size:30px">
 <b>Admixture parameters</b></p>
 </br>
 [ADMIXTURE software](https://www.genetics.ucla.edu/software/admixture/)
@@ -131,7 +152,7 @@ Dene-Yeniseian hypothesis
 
 
 
---- .slide #slide15 x:-2500 y:1000 z:-500 scale:0.25 rot:30
+--- .slide #slide16 x:-2500 y:1500 z:1000 scale:0.1 rot:-90
 <font size=3px>
 File with sample information
 
@@ -158,7 +179,7 @@ Example file of admixture analysis K-3
 </font>
 
 
---- .slide #slide16 x:-2500 y:2500 z:1000 scale:0.1 rot:-180
+--- .slide #slide17 x:-2500 y:2500 z:1000 scale:0.1 rot:90
 <font size=3px>
 
 ```r
@@ -189,22 +210,22 @@ abline(v=intervals2)
 ```
 </font>
 
---- #slide17 x:-1500 y:2500 z:500 rot:180
+--- #slide18 x:-1500 y:2500 z:500 rot:180
 <p class="centeredImage" style="font-size:30px">
 Admixture plot </br>
 <img src="admixture.png" style="width: 70%; height: 70%"></p>
 
---- #slide18 x:0 y:3500 scale:0.25
+--- #slide19 x:0 y:3500 scale:0.25
 <p class="centeredImage" style="font-size:30px">
 Admixture plot K-14 </br>
 </br>
 <img src="final_admix_subset_14.png" style="width: 1000px; height: 300px"></p> 
 
---- #slide19 x:1500 y:2500 rotz:90
+--- #slide20 x:1500 y:2500 rotz:90
 <p class="centeredImage">
-<img src="final_subset_plot_lab.tif" style="width: 500px; height: 800px"></p> 
+<img src="final_subset_plot_lab.png" style="width: 500px; height: 800px"></p> 
 
---- #slide20 x:2500 y:1500 z:1000 scale:0.5 rot:360
+--- #slide21 x:2500 y:1500 z:1000 scale:0.5 rot:360
 <p class="centeredImage"><b>Thank you for your attention!</b></br>
 </br>
 anastazie.d@gmail.com</p>
